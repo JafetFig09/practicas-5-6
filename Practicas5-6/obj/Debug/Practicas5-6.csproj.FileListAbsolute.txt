@@ -1,0 +1,10 @@
+C:\Users\jafet\Desktop\Practicas5-6\Practicas5-6\bin\Debug\Practicas5-6.exe.config
+C:\Users\jafet\Desktop\Practicas5-6\Practicas5-6\bin\Debug\Practicas5-6.exe
+C:\Users\jafet\Desktop\Practicas5-6\Practicas5-6\bin\Debug\Practicas5-6.pdb
+C:\Users\jafet\Desktop\Practicas5-6\Practicas5-6\obj\Debug\Practicas5-6.csproj.AssemblyReference.cache
+C:\Users\jafet\Desktop\Practicas5-6\Practicas5-6\obj\Debug\Practicas5_6.Form1.resources
+C:\Users\jafet\Desktop\Practicas5-6\Practicas5-6\obj\Debug\Practicas5_6.Properties.Resources.resources
+C:\Users\jafet\Desktop\Practicas5-6\Practicas5-6\obj\Debug\Practicas5-6.csproj.GenerateResource.cache
+C:\Users\jafet\Desktop\Practicas5-6\Practicas5-6\obj\Debug\Practicas5-6.csproj.CoreCompileInputs.cache
+C:\Users\jafet\Desktop\Practicas5-6\Practicas5-6\obj\Debug\Practicas5-6.exe
+C:\Users\jafet\Desktop\Practicas5-6\Practicas5-6\obj\Debug\Practicas5-6.pdb
